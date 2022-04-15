@@ -2,6 +2,6 @@
 #define MAIN_H
 
 #include <stdio.h>
-void positve_or_negative(int i)
+void positve_or_negative(int i);
 int largest_number(int a, int b, int c);
 #endif

@@ -1,5 +1,5 @@
 #include "main.h"
- /**
+/**
  *_strcat - concatenates two strings
  *@dest: A pointer to a character that will be changed
  *@src: A pointer to a character that will also be changed
@@ -19,7 +19,7 @@ i++;
 j = 0;
 while (src[j] != '\0')
 {
-dest[i] = scr[j];
+dest[i] = src[j];
 j++;
 i++;
 }

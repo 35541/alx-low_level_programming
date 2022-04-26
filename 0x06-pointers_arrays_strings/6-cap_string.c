@@ -1,9 +1,11 @@
 #include "main.h"
 /**
  * cap_string - capitalizes the words of a string
- * @s: string
- * Return: s
+ * @s: input string.
+ * Return: the pointer to dest.
  */
+
+
 char *cap_string(char *s)
 {
 int x, y;

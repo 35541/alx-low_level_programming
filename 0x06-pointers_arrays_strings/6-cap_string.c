@@ -32,5 +32,5 @@ else if (s[x] > 47 && s[x] < 58)
 trigger = 0;
 }   
 }    
-     return (s);
+return (s);
 }	  
